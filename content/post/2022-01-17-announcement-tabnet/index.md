@@ -6,7 +6,7 @@ title: Announcing Tabnet
 On Thursday, 3 February 2022 we are welcoming Christophe Regouby to RBelgium during an online meetup: [https://www.meetup.com/RBelgium/events/282452150/](https://www.meetup.com/RBelgium/events/282452150/)!
 
 Christophe will present us: The [tabnet](https://cran.r-project.org/package=tabnet) R package, or how to outperform XGBoost and LightGBM on tabular data, relying on [torch](https://torch.mlverse.org).
-Google's TabNet is a state of the art modeling architecture for tabular data that enables interpretability and performance [see paper](https://arxiv.org/abs/1908.07442).
+Google's TabNet is a state of the art modeling architecture for tabular data that enables interpretability and performance ([see paper](https://arxiv.org/abs/1908.07442)).
 
 R users interested in how they can build deep learning tools on top of the recent [torch](https://torch.mlverse.org) R package (which interfaces to the C++ libtorch library) will probably also be interested in this. The tabnet package is one of the packages part of the [mlverse ecosystem](https://torch.mlverse.org/packages/).
 
