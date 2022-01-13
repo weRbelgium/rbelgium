@@ -24,5 +24,5 @@ Christophe Regouby is a Data-scientist at Airbus' core AI team. He typically wor
 ### See you soon!
 
 You can be kept up to date with upcoming RBelgium meetups at [https://www.meetup.com/RBelgium](https://www.meetup.com/RBelgium).
->> If you have topics to cover, feel free to contact [one of us](https://www.meetup.com/RBelgium/members/?op=leaders) through Meetup and we will be happy to host it.
+> If you have topics to cover, feel free to contact [one of us](https://www.meetup.com/RBelgium/members/?op=leaders) through Meetup and we will be happy to host it.
 
