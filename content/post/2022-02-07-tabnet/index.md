@@ -15,7 +15,7 @@ You can see the recorded presentation below of the [RBelgium](https://www.meetup
 
 And answered the numerous questions from the audience.
 
-Enjoy the recordings below, [download the presentation](https://github.com/cregouby/R-toulouse-tabnet/blob/main/Torch_Tabnet_R_en.pdf) and if you have further questions, you can join the tabnet discussion at the discord channel at https://discord.com/invite/s3D5cKhBkx
+Enjoy the recordings below, [download the presentation](https://github.com/cregouby/R-toulouse-tabnet/blob/main/Torch_Tabnet_R_en.pdf) and if you have further questions, you can join the tabnet/torch discussion at the discord channel at https://discord.com/invite/s3D5cKhBkx
 
 {{< video src="20220203_RBelgium_TabNet">}}
 
